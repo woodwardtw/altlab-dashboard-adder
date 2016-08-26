@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ALT Lab add to Dashboard
-Plugin URI:  http://URI_Of_Page_Describing_Plugin_and_Updates
+Plugin URI:  https://github.com/woodwardtw/altlab-dashboard-adder
 Description: This allows you to add stuff to the dashboards of sites
 Version:     1.0
 Author:      Tom Woodward
